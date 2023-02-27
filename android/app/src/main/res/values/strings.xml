@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Peda Locker</string>
+    <string name="facebook_app_id">339999931381478</string>
+    <string name="fb_login_protocol_scheme">fb339999931381478</string>
+</resources>

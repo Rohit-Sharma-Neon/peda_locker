@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="30" viewBox="0 0 30 30">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_469" data-name="Rectangle 469" width="30" height="30" rx="15" transform="translate(2097 2379)" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="Group_7856" data-name="Group 7856" transform="translate(-1737 -2182)">
+    <g id="Mask_Group_22" data-name="Mask Group 22" transform="translate(-360 -197)" clip-path="url(#clip-path)">
+      <g id="_2361499_kingdom_uk_united_icon" data-name="2361499_kingdom_uk_united_icon" transform="translate(2097 2379)">
+        <path id="rect6883" d="M8.153,5.936A1.7,1.7,0,0,0,6.447,7.642V34.229a1.7,1.7,0,0,0,1.706,1.706H34.74a1.7,1.7,0,0,0,1.706-1.706V7.642A1.7,1.7,0,0,0,34.74,5.936H8.153Z" transform="translate(-6.447 -5.936)" fill="#00247d"/>
+        <path id="path4589" d="M6.447,39.124v2.611L19.185,49.09,6.447,56.445v2.611l15-8.66,15,8.66V56.445L23.708,49.09l12.738-7.354V39.124l-15,8.66Z" transform="translate(-6.447 -34.09)" fill="#cf142b"/>
+        <path id="path4587" d="M18.867,5.936v12.42H6.447v5.159h12.42v12.42h5.159V23.515h12.42V18.356H24.027V5.936H18.867Z" transform="translate(-6.447 -5.936)" fill="#cf142b"/>
+        <path id="rect4572" d="M18.366,5.936V17.272L6.447,10.391v1.159l10.921,6.305H14.852L6.447,13v1.159l6.4,3.694h-6.4v1H17.633c.683,0,1.1-.028,1.736-.028V5.936Zm5.159,0V18.862c.612,0,1.183,0,1.736,0H36.447v-1h-6.4l6.4-3.694V13l-8.4,4.852H25.526l10.921-6.305V10.391L24.528,17.272V5.936Zm-4.156,17.09c-.578,0-1.183-.012-1.736-.012H6.447v1h6.4l-6.4,3.694V28.87l8.4-4.852h2.517L6.447,30.322v1.159L18.366,24.6V35.936h1V23.026Zm4.156,0v12.91h1V24.6l11.918,6.881V30.322L25.526,24.017h2.517l8.4,4.852V27.711l-6.4-3.694h6.4v-1H25.261c-.634,0-1.736.012-1.736.012Z" transform="translate(-6.447 -5.936)" fill="#fff"/>
+      </g>
+    </g>
+    <circle id="Ellipse_616" data-name="Ellipse 616" cx="15" cy="15" r="15" transform="translate(1737 2182)" fill="#fff" opacity="0.81"/>
+  </g>
+</svg>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "531645318124",
+    "project_id": "pedalocker",
+    "storage_bucket": "pedalocker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531645318124:android:00fc9665de6e4f7f13f6c9",
+        "android_client_info": {
+          "package_name": "com.inventcolab.cyclelock.cycle_lock"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "531645318124-gq18ssf7htfl3brb86q6eagsiborubj1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.inventcolab.cyclelock.cycle_lock",
+            "certificate_hash": "22873527cc3a9df3a1989cfb9cbdf133fbdc0aa2"
+          }
+        },
+        {
+          "client_id": "531645318124-4j54frkljl85m0i7ps5edrvap8hd4top.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBY073BMIZG95mPvo_4L7RJf-PLNK1BAM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "531645318124-4j54frkljl85m0i7ps5edrvap8hd4top.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

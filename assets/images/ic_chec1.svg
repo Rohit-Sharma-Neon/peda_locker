@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22">
+  <g id="Group_5194" data-name="Group 5194" transform="translate(-35 -799)">
+    <g id="Rectangle_758" data-name="Rectangle 758" transform="translate(35 799)" fill="#a6a998" stroke="#a6a998" stroke-width="1">
+      <rect width="22" height="22" stroke="none"/>
+      <rect x="0.5" y="0.5" width="21" height="21" fill="none"/>
+    </g>
+    <path id="_211644_checkmark_icon" data-name="211644_checkmark_icon" d="M61.125,65.339,59.4,63.976a.307.307,0,0,0-.2-.076.3.3,0,0,0-.2.079l-6.29,8.082s-2.473-2.378-2.542-2.447-.161-.186-.3-.186-.2.1-.274.17c-.054.057-.936.983-1.37,1.443-.025.028-.041.044-.063.066a.31.31,0,0,0-.063.18.3.3,0,0,0,.063.18l.088.082s4.388,4.214,4.46,4.287A.423.423,0,0,0,53,76c.126,0,.23-.135.29-.2l7.846-10.079a.312.312,0,0,0,.063-.183A.324.324,0,0,0,61.125,65.339Z" transform="translate(-9.1 740.1)" fill="#fff"/>
+  </g>
+</svg>

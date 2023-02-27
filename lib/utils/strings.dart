@@ -1,0 +1,9 @@
+const String lottieUrl = "https://assets8.lottiefiles.com/packages/lf20_3gvprltr.json";
+// const String animCycleUrl = "https://assets9.lottiefiles.com/packages/lf20_lsrgirq1.json";
+const String animCycleUrl = "https://assets8.lottiefiles.com/packages/lf20_3gvprltr.json";
+const String bike = "https://assets10.lottiefiles.com/packages/lf20_na5lfbxv.json";
+const String couponLottieUrl = "https://assets6.lottiefiles.com/packages/lf20_dld9awux.json";
+const String noInternetLottieUrl = "https://assets6.lottiefiles.com/packages/lf20_ytbzt98g.json";
+const String applyCouponLottieUrl = "https://assets9.lottiefiles.com/packages/lf20_eoksbtra.json";
+const String dateFormatHyphen = "dd/MM/yyyy";
+const String dateFormatSlash = "dd/MM/yyyy";
